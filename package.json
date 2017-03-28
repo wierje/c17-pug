@@ -1,0 +1,25 @@
+{
+    "name": "c17-pug",
+    "version": "1.0.0",
+    "description": "pug practice",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.15.2",
+        "pug": "^2.0.0-beta11"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wierje/c17-pug.git"
+    },
+    "author": "James Wier",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wierje/c17-pug/issues"
+    },
+    "homepage": "https://github.com/wierje/c17-pug#readme"
+}
